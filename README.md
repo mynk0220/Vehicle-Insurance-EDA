@@ -57,3 +57,17 @@ Insight Generation:
 This project demonstrates a complete exploratory analysis workflow on a real-world insurance dataset. By combining statistical analysis with business reasoning, it highlights how data-driven insights can support better decision-making in insurance marketing and customer targeting.
 
 ## Dashboard / Output:
+![Vehicle-Insurance-EDA](https://github.com/mynk0220/Vehicle-Insurance-EDA/blob/main/AnnualPremium.png)
+![Vehicle-Insurance-EDA](https://github.com/mynk0220/Vehicle-Insurance-EDA/blob/main/AnnualPremiumDisHist.png)
+![Vehicle-Insurance-EDA](https://github.com/mynk0220/Vehicle-Insurance-EDA/blob/main/ClaimRate.png)
+![Vehicle-Insurance-EDA](https://github.com/mynk0220/Vehicle-Insurance-EDA/blob/main/Claims.png)
+![Vehicle-Insurance-EDA](https://github.com/mynk0220/Vehicle-Insurance-EDA/blob/main/CorrelationHEatmap.png)
+![Vehicle-Insurance-EDA](https://github.com/mynk0220/Vehicle-Insurance-EDA/blob/main/CountplotVehicleAge.png)
+![Vehicle-Insurance-EDA](https://github.com/mynk0220/Vehicle-Insurance-EDA/blob/main/DistributionvsPreviouslyinsured.png)
+![Vehicle-Insurance-EDA](https://github.com/mynk0220/Vehicle-Insurance-EDA/blob/main/Duration.png)
+![Vehicle-Insurance-EDA](https://github.com/mynk0220/Vehicle-Insurance-EDA/blob/main/Frequency.png)
+![Vehicle-Insurance-EDA](https://github.com/mynk0220/Vehicle-Insurance-EDA/blob/main/Frequency.png)
+
+
+
+
